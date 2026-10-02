@@ -2,6 +2,74 @@
     "agent_version": "0.0.0",
     "agent_url": "https://raw.githubusercontent.com/CruxClient-0/crux-cdn/main/release/CruxAgent.jar",
     "supported_latest_mc": "26.3",
-    "supported_versions": ["26.3", "1.21.4", "1.21.1", "1.21", "1.20.4"],
-    "announcement": ""
+    "supported_versions": [
+        "26.3",
+        "1.21.4",
+        "1.21.1",
+        "1.21",
+        "1.20.4",
+        "1.20.1",
+        "1.19.2",
+        "1.16.5",
+        "1.12.2",
+        "1.8.9",
+        "1.7.10"
+    ],
+    "locked_loaders": {
+        "26.3": {
+            "forge": "66.0.9",
+            "neoforge": "26.3.0.40-beta",
+            "fabric": "0.19.5"
+        },
+        "1.21.4": {
+            "forge": "54.1.14",
+            "neoforge": "21.4.158",
+            "fabric": "0.19.5"
+        },
+        "1.21.1": {
+            "forge": "52.1.0",
+            "neoforge": "26.3.0.40-beta",
+            "fabric": "0.19.5"
+        },
+        "1.21": {
+            "forge": "51.0.33",
+            "neoforge": "21.0.167",
+            "fabric": "0.19.5"
+        },
+        "1.20.4": {
+            "forge": "49.2.0",
+            "neoforge": "20.4.251",
+            "fabric": "0.19.5"
+        },
+        "1.20.1": {
+            "forge": "47.4.10",
+            "neoforge": "none",
+            "fabric": "0.19.5"
+        },
+        "1.19.2": {
+            "forge": "43.5.0",
+            "neoforge": "none",
+            "fabric": "0.19.5"
+        },
+        "1.16.5": {
+            "forge": "36.2.34",
+            "neoforge": "none",
+            "fabric": "0.19.5"
+        },
+        "1.12.2": {
+            "forge": "14.23.5.2859",
+            "neoforge": "none",
+            "fabric": "none"
+        },
+        "1.8.9": {
+            "forge": "11.15.1.2318",
+            "neoforge": "none",
+            "fabric": "none"
+        },
+        "1.7.10": {
+            "forge": "10.13.4.1614",
+            "neoforge": "none",
+            "fabric": "none"
+        }
+    }
 }
