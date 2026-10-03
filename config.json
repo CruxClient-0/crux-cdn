@@ -1,5 +1,19 @@
 ﻿{
-    "serial": 1,
+    "serial": 2,
+    "recommended_mods": [
+        {
+            "platform": "modrinth",
+            "id": "AANobbMI"
+        },
+        {
+            "platform": "modrinth",
+            "id": "YL57xq9U"
+        },
+        {
+            "platform": "curseforge",
+            "id": "238222"
+        }
+    ],
     "agent_version": "0.0.1(beta-0.1)",
     "agent_url": "none",
     "supported_latest_mc": "26.3",
