@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 2,
+    "serial": 3,
     "recommended_mods": [
         {
             "platform": "modrinth",
@@ -14,8 +14,14 @@
             "id": "238222"
         }
     ],
-    "agent_version": "0.0.1(beta-0.1)",
-    "agent_url": "none",
+    "agent": {
+        "version": "0.1.0(beta-0.1)",
+        "url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.1.0/crux-agent-0.1.0.jar",
+        "sha256": "e41d36afb1f5e8949ff78bec45ba8ba5fa7b7b853dda34793ae9ffdc49be0555",
+        "minecraft": [
+            "26.3"
+        ]
+    },
     "supported_latest_mc": "26.3",
     "locked_loaders": {
         "26.3": {
