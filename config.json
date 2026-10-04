@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 5,
+    "serial": 6,
     "recommended_mods": [
         {
             "comment": "Iris Shaders",
@@ -68,9 +68,9 @@
         }
     ],
     "agent": {
-        "version": "0.1.0(beta-0.1)",
-        "url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.1.0/crux-agent-0.1.0.jar",
-        "sha256": "e41d36afb1f5e8949ff78bec45ba8ba5fa7b7b853dda34793ae9ffdc49be0555",
+        "version": "0.1.0(beta-0.2)",
+        "url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.2.0/crux-agent-0.2.0.jar",
+        "sha256": "66de7a5c99c2a5cacd8f75bd6d2fb28909a839a4b92ef400de39afa538a049fb",
         "minecraft": [
             "26.3"
         ]
