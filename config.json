@@ -1,5 +1,6 @@
 ﻿{
-    "serial": 6,
+    "serial": 7,
+    "api_url": "https://crux-api.crux-cdcp.workers.dev",
     "recommended_mods": [
         {
             "comment": "Iris Shaders",
