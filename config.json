@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 15,
+    "serial": 16,
     "api_url": "https://crux-api.crux-cdcp.workers.dev",
     "recommended_mods": [
         {
@@ -69,9 +69,9 @@
         }
     ],
     "agent": {
-        "version": "beta-0.2.9",
-        "url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.2.9/crux-agent-0.2.9.jar",
-        "sha256": "ad2e25c205f388f27bfcdc356d84fcd5f2f40dc9382748b8c3822628ce9642d2",
+        "version": "beta-0.2.10",
+        "url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.2.10/crux-agent-0.2.10.jar",
+        "sha256": "019485d8d1fc9cc76506bdd8e01c135141a92ce0c7c2e35412ef3c6936ea00d0",
         "minecraft": [
             "26.3"
         ]
