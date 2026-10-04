@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 3,
+    "serial": 4,
     "recommended_mods": [
         {
             "platform": "modrinth",
@@ -7,11 +7,47 @@
         },
         {
             "platform": "modrinth",
+            "id": "N6n5dqoA"
+        },
+        {
+            "platform": "modrinth",
+            "id": "1u6JkXh5"
+        },
+        {
+            "platform": "modrinth",
+            "id": "mOgUt4GM"
+        },
+        {
+            "platform": "modrinth",
             "id": "YL57xq9U"
+        },
+        {
+            "platform": "modrinth",
+            "id": "k2ZPuTBm"
+        },
+        {
+            "platform": "modrinth",
+            "id": "gvQqBUqZ"
         },
         {
             "platform": "curseforge",
             "id": "238222"
+        },
+        {
+            "platform": "curseforge",
+            "id": "911202"
+        },
+        {
+            "platform": "curseforge",
+            "id": "546670"
+        },
+        {
+            "platform": "curseforge",
+            "id": "455508"
+        },
+        {
+            "platform": "curseforge",
+            "id": "394468"
         }
     ],
     "agent": {
