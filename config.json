@@ -1,53 +1,70 @@
 ﻿{
-    "serial": 4,
+    "serial": 5,
     "recommended_mods": [
         {
-            "platform": "modrinth",
-            "id": "AANobbMI"
-        },
-        {
-            "platform": "modrinth",
-            "id": "N6n5dqoA"
-        },
-        {
-            "platform": "modrinth",
-            "id": "1u6JkXh5"
-        },
-        {
-            "platform": "modrinth",
-            "id": "mOgUt4GM"
-        },
-        {
+            "comment": "Iris Shaders",
             "platform": "modrinth",
             "id": "YL57xq9U"
         },
         {
+            "comment": "Sodium",
             "platform": "modrinth",
-            "id": "k2ZPuTBm"
+            "id": "AANobbMI"
         },
         {
+            "comment": "Lithium",
             "platform": "modrinth",
             "id": "gvQqBUqZ"
         },
         {
-            "platform": "curseforge",
-            "id": "238222"
+            "comment": "Mod Menu",
+            "platform": "modrinth",
+            "id": "mOgUt4GM"
         },
         {
-            "platform": "curseforge",
-            "id": "911202"
+            "comment": "Essential Mod",
+            "platform": "modrinth",
+            "id": "k2ZPuTBm"
         },
         {
-            "platform": "curseforge",
-            "id": "546670"
+            "comment": "Axiom",
+            "platform": "modrinth",
+            "id": "N6n5dqoA"
         },
         {
+            "comment": "WorldEdit",
+            "platform": "modrinth",
+            "id": "1u6JkXh5"
+        },
+        {
+            "comment": "Iris Shaders",
             "platform": "curseforge",
             "id": "455508"
         },
         {
+            "comment": "Sodium",
             "platform": "curseforge",
             "id": "394468"
+        },
+        {
+            "comment": "Lithium",
+            "platform": "curseforge",
+            "id": "360438"
+        },
+        {
+            "comment": "Mod Menu",
+            "platform": "curseforge",
+            "id": "308702"
+        },
+        {
+            "comment": "Axiom",
+            "platform": "curseforge",
+            "id": "911202"
+        },
+        {
+            "comment": "WorldEdit",
+            "platform": "curseforge",
+            "id": "225608"
         }
     ],
     "agent": {
