@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 36,
+    "serial": 37,
     "api_url": "https://crux-api.crux-cdcp.workers.dev",
     "recommended_mods": [
         {
@@ -71,9 +71,9 @@
     "agent": {
         "version": "beta-0.3.8",
         "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.8/crux-fabric-0.3.8.jar",
-        "26.3-fabric_sha256": "656191f9e5befdedb34b1c1db6ab7db257b93c00bfe54fbfd1c3055137f4d9e1",
+        "26.3-fabric_sha256": "7d840c0d5474514761a162c106176c8ecd3e6faa4e16e7e6c3ddbd9cfff932ee",
         "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.8/crux-agent-0.3.8.jar",
-        "26.3-vanilla_sha256": "60f835d4728212297d45cb2abe93ac9f22d687393f82d265630fd87efae75b8b"
+        "26.3-vanilla_sha256": "f531421f80e259775645cea36a3acb7bbb60967efb24fb798cc00304150ada71"
     },
     "supported_latest_mc": "26.3",
     "locked_loaders": {
