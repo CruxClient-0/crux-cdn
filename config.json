@@ -5,6 +5,7 @@
         "website": "",
         "discord": ""
     },
+    "discord_app_id": "",
     "performance_mods": {
         "26.3": ["sodium", "lithium", "ferrite-core", "immediatelyfast", "krypton", "badoptimizations"]
     },
@@ -78,9 +79,9 @@
     "agent": {
         "version": "beta-0.3.14",
         "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.14/crux-fabric-0.3.14.jar",
-        "26.3-fabric_sha256": "afc38d3e5e32a55543431156f152edf1569662e6bc58a10b09bc91b5eaba9131",
+        "26.3-fabric_sha256": "210f1e5cf89d9bed6373d1bd86e368f40124aa4399d57a216b720e41de3c3999",
         "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.14/crux-agent-0.3.14.jar",
-        "26.3-vanilla_sha256": "dc82e1f8b1a5dc1bcca04e465f22be9e5c06efdfb27c4bdafc3f4c4ae6d27456"
+        "26.3-vanilla_sha256": "f53f1032521e658e3c952de1a31e0963c963c4be144cdaa5e88f3d5763679d3e"
     },
     "supported_latest_mc": "26.3",
     "locked_loaders": {
