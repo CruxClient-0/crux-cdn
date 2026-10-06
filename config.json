@@ -79,9 +79,9 @@
     "agent": {
         "version": "beta-0.3.14",
         "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.14/crux-fabric-0.3.14.jar",
-        "26.3-fabric_sha256": "210f1e5cf89d9bed6373d1bd86e368f40124aa4399d57a216b720e41de3c3999",
+        "26.3-fabric_sha256": "a29a3972f4c772cec2f31c4d481f9a18b9647269f3dcb5d6c9197b45c23dd27d",
         "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.14/crux-agent-0.3.14.jar",
-        "26.3-vanilla_sha256": "f53f1032521e658e3c952de1a31e0963c963c4be144cdaa5e88f3d5763679d3e"
+        "26.3-vanilla_sha256": "fe48c8f2284229a5f38c048ab375f3fff10c5713a64d575677a62c586748a9b5"
     },
     "supported_latest_mc": "26.3",
     "locked_loaders": {
