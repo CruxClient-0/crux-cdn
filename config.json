@@ -1,6 +1,13 @@
 ﻿{
-    "serial": 39,
+    "serial": 40,
     "api_url": "https://crux-api.crux-cdcp.workers.dev",
+    "links": {
+        "website": "",
+        "discord": ""
+    },
+    "performance_mods": {
+        "26.3": ["sodium", "lithium", "ferrite-core", "immediatelyfast", "krypton", "badoptimizations"]
+    },
     "recommended_mods": [
         {
             "comment": "Iris Shaders",
@@ -69,11 +76,11 @@
         }
     ],
     "agent": {
-        "version": "beta-0.3.9",
-        "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.9/crux-fabric-0.3.9.jar",
-        "26.3-fabric_sha256": "20f32b7a04b80a854c7c255a61701e13352d5f9debea4fc08b3cf770cd17361d",
-        "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.9/crux-agent-0.3.9.jar",
-        "26.3-vanilla_sha256": "3ab6d9d1ba3cee398bfed8494e0a0dcbefd6d82e420dc727abd41f7bce080ec2"
+        "version": "beta-0.3.10",
+        "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.10/crux-fabric-0.3.10.jar",
+        "26.3-fabric_sha256": "7f57972acf363182c22cd8b93b0a3986c631e9d9b606933c4e13d65b1f4cd138",
+        "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.10/crux-agent-0.3.10.jar",
+        "26.3-vanilla_sha256": "a976886d37b435af3b11984b4ac4946858a1a565bb815f12a7dd06eedae338be"
     },
     "supported_latest_mc": "26.3",
     "locked_loaders": {
