@@ -1,8 +1,8 @@
 ﻿{
-    "serial": 51,
-    "api_url": "https://crux-api.crux-cdcp.workers.dev",
+    "serial": 52,
+    "api_url": "https://api.cruxlauncher.com",
     "links": {
-        "website": "",
+        "website": "https://cruxlauncher.com",
         "discord": ""
     },
     "discord_app_id": "",
