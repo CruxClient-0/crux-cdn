@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 44,
+    "serial": 45,
     "api_url": "https://crux-api.crux-cdcp.workers.dev",
     "links": {
         "website": "",
@@ -7,7 +7,14 @@
     },
     "discord_app_id": "",
     "performance_mods": {
-        "26.3": ["sodium", "lithium", "ferrite-core", "immediatelyfast", "krypton", "badoptimizations"]
+        "26.3": [
+            "sodium",
+            "lithium",
+            "ferrite-core",
+            "immediatelyfast",
+            "krypton",
+            "badoptimizations"
+        ]
     },
     "recommended_mods": [
         {
