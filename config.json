@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 56,
+    "serial": 57,
     "api_url": "https://api.cruxlauncher.com",
     "links": {
         "website": "https://cruxlauncher.com",
@@ -86,9 +86,9 @@
     "agent": {
         "version": "beta-0.3.18",
         "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.18/crux-fabric-0.3.18.jar",
-        "26.3-fabric_sha256": "7797321fab7ede0380e0b6369bb4d9db047fdc1b9936af1e266e9c9ad1a4358e",
+        "26.3-fabric_sha256": "4e16485a51cd6021bd390b5885971b380991e640314c145e2c1c7bbc1103d1c9",
         "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.18/crux-agent-0.3.18.jar",
-        "26.3-vanilla_sha256": "5032f28b338a3cf975ab0c95b22c90046a2e2924b102d9a064734025916449d7"
+        "26.3-vanilla_sha256": "1582300b718c65099b0eb8ce88e1dd6e0041e7d981ea09c159f9f2c60734491a"
     },
     "supported_latest_mc": "26.3",
     "locked_loaders": {
