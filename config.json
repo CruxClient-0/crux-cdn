@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 57,
+    "serial": 58,
     "api_url": "https://api.cruxlauncher.com",
     "links": {
         "website": "https://cruxlauncher.com",
@@ -91,6 +91,10 @@
         "26.3-vanilla_sha256": "1582300b718c65099b0eb8ce88e1dd6e0041e7d981ea09c159f9f2c60734491a"
     },
     "supported_latest_mc": "26.3",
+  "locked_servers": {
+    "26.3": { "paper": "159", "fabric": "0.19.5", "neoforge": "26.3.0.40-beta", "forge": "66.0.9", "vanilla": "26.3",
+              "purpur": "none", "folia": "none", "leaves": "none", "quilt": "none", "arclight": "none", "mohist": "none", "velocity": "none", "bungeecord": "none" }
+  },
     "locked_loaders": {
         "26.3": {
             "forge": "66.0.9",
