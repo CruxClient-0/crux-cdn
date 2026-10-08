@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 59,
+    "serial": 60,
     "api_url": "https://api.cruxlauncher.com",
     "links": {
         "website": "https://cruxlauncher.com",
@@ -93,7 +93,12 @@
     "supported_latest_mc": "26.3",
   "locked_servers": {
     "26.3": { "paper": "159", "fabric": "0.19.5", "neoforge": "26.3.0.40-beta", "forge": "66.0.9", "vanilla": "26.3",
-              "purpur": "none", "folia": "none", "leaves": "none", "quilt": "none", "arclight": "none", "mohist": "none", "velocity": "none", "bungeecord": "none" }
+              "spigot": "buildtools", "purpur": "2645", "quilt": "0.30.1", "velocity": "3.5.0-SNAPSHOT/609", "bungeecord": "2102",
+              "folia": "none", "leaves": "none", "arclight": "none", "mohist": "none" },
+    "26.2": { "folia": "7" },
+    "1.21.11": { "leaves": "157" },
+    "1.21.1": { "arclight": "FeudalKings/1.0.1|arclight-neoforge-1.21.1-1.0.1-8ec9529.jar" },
+    "1.20.1": { "mohist": "921" }
   },
     "locked_loaders": {
         "26.3": {
