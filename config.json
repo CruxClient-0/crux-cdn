@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 63,
+    "serial": 64,
     "api_url": "https://api.cruxlauncher.com",
     "links": {
         "website": "https://cruxlauncher.com",
@@ -86,20 +86,41 @@
     "agent": {
         "version": "beta-0.3.22",
         "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.22/crux-fabric-0.3.22.jar",
-        "26.3-fabric_sha256": "f5c08444a0d2a70dd8d3cb5fcc220de3ce35b35197dba2f2f51fc65cff234535",
+        "26.3-fabric_sha256": "1d5fc654e46f991b0ec868d035620bbe9d72842eb6390afd8df8e235eaebc5db",
         "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.22/crux-agent-0.3.22.jar",
-        "26.3-vanilla_sha256": "39046bb97c5bea0f77801e1d06971e2003e2986ca7ef607b0393817c18d55cc8"
+        "26.3-vanilla_sha256": "53bbf21a39e0d4f186639e961e4372cc2df90842c095195a915243c60735c8a1"
     },
     "supported_latest_mc": "26.3",
-  "locked_servers": {
-    "26.3": { "paper": "159", "fabric": "0.19.5", "neoforge": "26.3.0.40-beta", "forge": "66.0.9", "vanilla": "26.3",
-              "spigot": "buildtools", "purpur": "2645", "quilt": "0.30.1", "velocity": "3.5.0-SNAPSHOT/609", "bungeecord": "2102",
-              "folia": "none", "leaves": "none", "arclight": "none", "mohist": "none" },
-    "26.2": { "folia": "7" },
-    "1.21.11": { "leaves": "157" },
-    "1.21.1": { "arclight": "FeudalKings/1.0.1|arclight-neoforge-1.21.1-1.0.1-8ec9529.jar" },
-    "1.20.1": { "mohist": "921" }
-  },
+    "locked_servers": {
+        "26.3": {
+            "paper": "159",
+            "fabric": "0.19.5",
+            "neoforge": "26.3.0.40-beta",
+            "forge": "66.0.9",
+            "vanilla": "26.3",
+            "spigot": "buildtools",
+            "purpur": "2645",
+            "quilt": "0.30.1",
+            "velocity": "3.5.0-SNAPSHOT/609",
+            "bungeecord": "2102",
+            "folia": "none",
+            "leaves": "none",
+            "arclight": "none",
+            "mohist": "none"
+        },
+        "26.2": {
+            "folia": "7"
+        },
+        "1.21.11": {
+            "leaves": "157"
+        },
+        "1.21.1": {
+            "arclight": "FeudalKings/1.0.1|arclight-neoforge-1.21.1-1.0.1-8ec9529.jar"
+        },
+        "1.20.1": {
+            "mohist": "921"
+        }
+    },
     "locked_loaders": {
         "26.3": {
             "forge": "66.0.9",
