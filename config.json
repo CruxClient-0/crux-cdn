@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 68,
+    "serial": 69,
     "api_url": "https://api.cruxlauncher.com",
     "links": {
         "website": "https://cruxlauncher.com",
@@ -85,22 +85,22 @@
     ],
     "server_plugins": {
         "bukkit_url": "https://cruxlauncher.com/downloads/server/1.3.0/Crux-Plugin-Bukkit-1.3.0.jar",
-        "bukkit_sha256": "3f8b553e9bde68dc8021dec351552bfb759b152c62366666288a6d414a53cf70",
+        "bukkit_sha256": "88f254552a8554f30c4338a4f95c9ffd71ac82c41f34d0a745fcfce56c2a6833",
         "bukkit_version": "1.3.0",
         "bungeecord_url": "https://cruxlauncher.com/downloads/server/1.3.0/Crux-Plugin-BungeeCord-1.3.0.jar",
-        "bungeecord_sha256": "19d39e634580cd6436160b4ad816d71cf44a8d3f9ec948afda284aff329cbfd9",
+        "bungeecord_sha256": "4ca8c1b0f2403eb5d984da08669122652172666f011d91e016ec7a25944ba322",
         "bungeecord_version": "1.3.0",
         "velocity_url": "https://cruxlauncher.com/downloads/server/1.3.0/Crux-Plugin-Velocity-1.3.0.jar",
-        "velocity_sha256": "115ee3dc2ff6208f7d15acff13f7593a3bc78b1fe7c41d21abf0221b6be7cb95",
+        "velocity_sha256": "9ffe4479720ff6b455839ff984d43fe621255b7983c8aa56d4bf4c284d073348",
         "velocity_version": "1.3.0",
         "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.3.0/Crux-ServerMod-Fabric-26.3-1.3.0.jar",
-        "26.3-fabric_sha256": "525829b7e11b2c8d515b7250d7dc71a46336a9d0f44aff9970864d207d613bc5",
+        "26.3-fabric_sha256": "5387eb5c2edb95d82fff6401ce7396d6e0fb9a224b1c6db65414e21d947e30a8",
         "26.3-fabric_version": "1.3.0",
         "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.3.0/Crux-ServerMod-Forge-26.3-1.3.0.jar",
-        "26.3-forge_sha256": "8960e80a6f2b77d6be42e45833347f417ecc0807eaa94f59c6dd11d9e070ca1f",
+        "26.3-forge_sha256": "2b5de8be46c417cd609609ec284987e616f0235b776e568fa423e836af12cf72",
         "26.3-forge_version": "1.3.0",
         "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.3.0/Crux-ServerMod-NeoForge-26.3-1.3.0.jar",
-        "26.3-neoforge_sha256": "8437c22adabcd9d26bceade458b3915a5e0a28f4a046882ee4352f0cfd3b38a6",
+        "26.3-neoforge_sha256": "5eaad2c75b3e18ff9385d5689b27e6eb54c1a4a9c9c9d6f5aed6d6192bb51245",
         "26.3-neoforge_version": "1.3.0"
     },
     "agent": {
