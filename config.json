@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 79,
+    "serial": 80,
     "api_url": "https://api.cruxlauncher.com",
     "links": {
         "website": "https://cruxlauncher.com",
@@ -142,6 +142,11 @@
             "neoforge": "26.3.0.40-beta",
             "fabric": "0.19.5"
         },
+        "1.21.11": {
+            "forge": "61.2.0",
+            "neoforge": "21.11.45",
+            "fabric": "0.19.5"
+        },
         "1.21.4": {
             "forge": "54.1.14",
             "neoforge": "21.4.158",
@@ -162,6 +167,11 @@
             "neoforge": "20.4.251",
             "fabric": "0.19.5"
         },
+        "1.20.2": {
+            "forge": "48.1.0",
+            "neoforge": "20.2.93",
+            "fabric": "0.19.5"
+        },
         "1.20.1": {
             "forge": "47.4.10",
             "neoforge": "none",
@@ -169,6 +179,11 @@
         },
         "1.19.2": {
             "forge": "43.5.0",
+            "neoforge": "none",
+            "fabric": "0.19.5"
+        },
+        "1.18.2": {
+            "forge": "40.3.0",
             "neoforge": "none",
             "fabric": "0.19.5"
         },
