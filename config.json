@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 102,
+    "serial": 104,
     "api_url": "https://api.cruxlauncher.com",
     "links": {
         "website": "https://cruxlauncher.com",
@@ -84,26 +84,26 @@
         }
     ],
     "server_plugins": {
-        "version": "1.5.4",
-        "bukkit_url": "https://cruxlauncher.com/downloads/server/1.5.4/Crux-Plugin-Bukkit-1.5.4.jar",
-        "bukkit_sha256": "3c39f1a790b913a742b340e862d7bee3b678aa1a1f6d0e34eb001135cb4424fe",
-        "bungeecord_url": "https://cruxlauncher.com/downloads/server/1.5.4/Crux-Plugin-BungeeCord-1.5.4.jar",
-        "bungeecord_sha256": "f5f5a75b21316a68d64e66baaa093368f9d2db06d1369fa2071944dacf2d1a28",
-        "velocity_url": "https://cruxlauncher.com/downloads/server/1.5.4/Crux-Plugin-Velocity-1.5.4.jar",
-        "velocity_sha256": "951f541265381998a8fe5bcbd75263cdb2b252b4803db4f9c94b98b69bf17863",
-        "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.5.4/Crux-ServerMod-Fabric-26.3-1.5.4.jar",
-        "26.3-fabric_sha256": "7c6cfc3f6c6c0b6f0c851b801022a29505aff373680bc15bbf19e18a4901ae07",
-        "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.5.4/Crux-ServerMod-Forge-26.3-1.5.4.jar",
-        "26.3-forge_sha256": "1978d8df827ce806bd0b3d29277f8620711df7c1941799c9fc5addbd327f165e",
-        "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.5.4/Crux-ServerMod-NeoForge-26.3-1.5.4.jar",
-        "26.3-neoforge_sha256": "1d2e0b6e7839954349c5ded6c7b15dd0fdc799270d8c707081a79292ed9f2ea4"
+        "version": "1.5.5",
+        "bukkit_url": "https://cruxlauncher.com/downloads/server/1.5.5/Crux-Plugin-Bukkit-1.5.5.jar",
+        "bukkit_sha256": "a383af3ae8341275f091cfaef26697c1a78835b7b3e904276d5bc90578cd8954",
+        "bungeecord_url": "https://cruxlauncher.com/downloads/server/1.5.5/Crux-Plugin-BungeeCord-1.5.5.jar",
+        "bungeecord_sha256": "17d97259bd1444d31acd7fd92b0c077958816f77d0632658d7c85e8249503f49",
+        "velocity_url": "https://cruxlauncher.com/downloads/server/1.5.5/Crux-Plugin-Velocity-1.5.5.jar",
+        "velocity_sha256": "c78b3fa50564ceb9e861f0be9bb9930b03593373b79c78c9f4cfd323c1070cdc",
+        "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.5.5/Crux-ServerMod-Fabric-26.3-1.5.5.jar",
+        "26.3-fabric_sha256": "6eb72dc993301503e952b111872499779c5118c1f0fa4d0ea4867236f6fb6141",
+        "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.5.5/Crux-ServerMod-Forge-26.3-1.5.5.jar",
+        "26.3-forge_sha256": "79a18cf9e73a0012a63e56f4a7f4cbfa01e1c12f0b8fd46e89b3de3d436674b5",
+        "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.5.5/Crux-ServerMod-NeoForge-26.3-1.5.5.jar",
+        "26.3-neoforge_sha256": "fb27a44edba0017aa02b899f96852093eec0cdad8eeebe0c63cc295b6b465d62"
     },
     "agent": {
-        "version": "beta-0.3.38",
-        "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.38/crux-fabric-0.3.38.jar",
-        "26.3-fabric_sha256": "7c6cfc3f6c6c0b6f0c851b801022a29505aff373680bc15bbf19e18a4901ae07",
-        "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.38/crux-agent-0.3.38.jar",
-        "26.3-vanilla_sha256": "49e6166152e3dfe58251028d18ce7dbab6ea78b921b64c8aecba4f92234a6238"
+        "version": "beta-0.3.39",
+        "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.39/crux-fabric-0.3.39.jar",
+        "26.3-fabric_sha256": "218af0c47ed6805ab7e0c04c074a1d9d639c190540a6d3b231a6a92a79cde701",
+        "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.39/crux-agent-0.3.39.jar",
+        "26.3-vanilla_sha256": "55ecca545a94dd27a5f61667a227d5d01f4f32604a9c3da025e295bd3184e07f"
     },
     "supported_latest_mc": "26.3",
     "locked_servers": {
