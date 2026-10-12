@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 109,
+    "serial": 110,
     "api_url": "https://api.cruxlauncher.com",
     "links": {
         "website": "https://cruxlauncher.com",
@@ -92,18 +92,18 @@
         "velocity_url": "https://cruxlauncher.com/downloads/server/1.5.6/Crux-Plugin-Velocity-1.5.6.jar",
         "velocity_sha256": "99fe3bb2843339c3ca68e4f2675cc0ac6c3aaab53d390f22eb6d21ded70c8ca3",
         "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.5.6/Crux-ServerMod-Fabric-26.3-1.5.6.jar",
-        "26.3-fabric_sha256": "0fc9aef4e6c5c2473eb62db9ccd4de75980af0686fac6df04d2e12613cbf0904",
+        "26.3-fabric_sha256": "e6037028cf1e0bc7185660c7c2078dd7d5cef0c51d2e8702fa57a7e55d6d1ec2",
         "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.5.6/Crux-ServerMod-Forge-26.3-1.5.6.jar",
         "26.3-forge_sha256": "78728f962cf55e60e8b848f4485471ff5d8541c35ba47e237dafaff3028720a3",
         "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.5.6/Crux-ServerMod-NeoForge-26.3-1.5.6.jar",
         "26.3-neoforge_sha256": "d05d7b0e9e4d56f2515b3a1d0d1540109ff27aee4113d371c22c3063be0cd390"
     },
     "agent": {
-        "version": "beta-0.3.42",
-        "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.42/crux-fabric-0.3.42.jar",
-        "26.3-fabric_sha256": "0fc9aef4e6c5c2473eb62db9ccd4de75980af0686fac6df04d2e12613cbf0904",
-        "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.42/crux-agent-0.3.42.jar",
-        "26.3-vanilla_sha256": "366006c8b43213310782c6c3401be6a5aa6ae1bc081fd02bc1dd346908940e30"
+        "version": "beta-0.3.43",
+        "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.43/crux-fabric-0.3.43.jar",
+        "26.3-fabric_sha256": "e6037028cf1e0bc7185660c7c2078dd7d5cef0c51d2e8702fa57a7e55d6d1ec2",
+        "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.43/crux-agent-0.3.43.jar",
+        "26.3-vanilla_sha256": "96d4f596dc3f87a9260ad253ec10f601aa86336826d5c8c164f5490249affacd"
     },
     "supported_latest_mc": "26.3",
     "locked_servers": {
