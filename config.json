@@ -1,5 +1,6 @@
 ﻿{
-    "serial": 132,
+    "serial": 133,
+    "launcher": { "latest": "0.1.0", "min": "0.1.0", "url": "https://cruxlauncher.com/download/" },
     "api_url": "https://api.cruxlauncher.com",
     "links": {
         "website": "https://cruxlauncher.com",
