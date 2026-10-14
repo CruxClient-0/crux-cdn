@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 146,
+    "serial": 147,
     "launcher": { "latest": "0.1.0", "min": "0.1.0", "url": "https://cruxlauncher.com/download/" },
     "api_url": "https://api.cruxlauncher.com",
     "links": {
@@ -85,19 +85,19 @@
         }
     ],
     "server_plugins": {
-        "version": "1.5.23",
-        "bukkit_url": "https://cruxlauncher.com/downloads/server/1.5.23/Crux-Plugin-Bukkit-1.5.23.jar",
-        "bukkit_sha256": "f7de812199d8044fdeb7f4343252aeedc18c281f716c2a4e1101d36ff175fbaf",
-        "bungeecord_url": "https://cruxlauncher.com/downloads/server/1.5.23/Crux-Plugin-BungeeCord-1.5.23.jar",
-        "bungeecord_sha256": "8a6161188b73cb7464eb6bc93731e92018bd3617c529272b954725ea64f1a531",
-        "velocity_url": "https://cruxlauncher.com/downloads/server/1.5.23/Crux-Plugin-Velocity-1.5.23.jar",
-        "velocity_sha256": "d5f7f7435395b5bb0e037b6cae1cc3fe9fbfb81daad99c2dfce321660bb2a39d",
-        "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.5.23/Crux-ServerMod-Fabric-26.3-1.5.23.jar",
-        "26.3-fabric_sha256": "3ae9aa2173a4f62ca7ac4c65834ca7e2158c6de6d675e74f70111f501ac9bd88",
-        "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.5.23/Crux-ServerMod-Forge-26.3-1.5.23.jar",
-        "26.3-forge_sha256": "abe01048bbc8f7ed28d7878cef9c3cd59048ba2bc8dfe07e653343800c4298e3",
-        "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.5.23/Crux-ServerMod-NeoForge-26.3-1.5.23.jar",
-        "26.3-neoforge_sha256": "320fd0e9ec322da9863c4a268153f1dcfa5f687ddc4bd123c9f17f19f5d4cc31"
+        "version": "1.5.24",
+        "bukkit_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-Plugin-Bukkit-1.5.24.jar",
+        "bukkit_sha256": "7181a5b67f04dbdec16b2555ccb7a8e1a573351e7ed3d3b79fec20e15117c979",
+        "bungeecord_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-Plugin-BungeeCord-1.5.24.jar",
+        "bungeecord_sha256": "a80fc663ab9d545c8cbe74990f6e0f87df3836d4287b1704b0eb960b227da99c",
+        "velocity_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-Plugin-Velocity-1.5.24.jar",
+        "velocity_sha256": "21ae739124b6932f6bbfef22cc76aaf768a06de43fd9f5a9656e2b933e2d84d2",
+        "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-ServerMod-Fabric-26.3-1.5.24.jar",
+        "26.3-fabric_sha256": "fa56eac02149ce698bc38eaa4235975ec3fb8b0dc19da048aa76e1a52fc46112",
+        "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-ServerMod-Forge-26.3-1.5.24.jar",
+        "26.3-forge_sha256": "d61a951e69c0eda8915996f3d3892cfe83194b08eba4d7ca6508b576fa68bf06",
+        "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-ServerMod-NeoForge-26.3-1.5.24.jar",
+        "26.3-neoforge_sha256": "69ef789e3a95950b26f0ac0142d2bfe0afd1ee5b63103b9d10526ff62cf5a7b1"
     },
     "agent": {
         "version": "beta-0.3.58",
