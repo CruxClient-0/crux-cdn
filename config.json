@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 148,
+    "serial": 149,
     "launcher": { "latest": "0.1.0", "min": "0.1.0", "url": "https://cruxlauncher.com/download/" },
     "api_url": "https://api.cruxlauncher.com",
     "links": {
@@ -93,7 +93,7 @@
         "velocity_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-Plugin-Velocity-1.5.24.jar",
         "velocity_sha256": "21ae739124b6932f6bbfef22cc76aaf768a06de43fd9f5a9656e2b933e2d84d2",
         "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-ServerMod-Fabric-26.3-1.5.24.jar",
-        "26.3-fabric_sha256": "2e700daccb147c8a3b7436d03ad3e94a7d58aa889c49de621abac21051f2c4bc",
+        "26.3-fabric_sha256": "fa56eac02149ce698bc38eaa4235975ec3fb8b0dc19da048aa76e1a52fc46112",
         "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-ServerMod-Forge-26.3-1.5.24.jar",
         "26.3-forge_sha256": "d61a951e69c0eda8915996f3d3892cfe83194b08eba4d7ca6508b576fa68bf06",
         "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-ServerMod-NeoForge-26.3-1.5.24.jar",
