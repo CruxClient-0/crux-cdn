@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 167,
+    "serial": 169,
     "launcher": { "latest": "0.1.0", "min": "0.1.0", "url": "https://cruxlauncher.com/download/" },
     "api_url": "https://api.cruxlauncher.com",
     "links": {
@@ -85,26 +85,26 @@
         }
     ],
     "server_plugins": {
-        "version": "1.5.31",
-        "bukkit_url": "https://cruxlauncher.com/downloads/server/1.5.31/Crux-Plugin-Bukkit-1.5.31.jar?v=244b253a2c86",
-        "bukkit_sha256": "244b253a2c86545558f1bfac38cda7fcadb75e713abf83062d1fe2f2a75ef409",
-        "bungeecord_url": "https://cruxlauncher.com/downloads/server/1.5.31/Crux-Plugin-BungeeCord-1.5.31.jar?v=83d377862b39",
-        "bungeecord_sha256": "83d377862b39529ea070b32b76dc71600effeb31d5cf680f31225f2d489021d1",
-        "velocity_url": "https://cruxlauncher.com/downloads/server/1.5.31/Crux-Plugin-Velocity-1.5.31.jar?v=3080ea0f7e85",
-        "velocity_sha256": "3080ea0f7e856191ee8338c537d0a60393188319a34bb36862a959faa4ab9d66",
-        "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.5.31/Crux-ServerMod-Fabric-26.3-1.5.31.jar?v=21328dafef94",
-        "26.3-fabric_sha256": "21328dafef94a69a9f3e883ddd0dbf5bcd30fc043e92cecdf8132accf1da0881",
-        "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.5.31/Crux-ServerMod-Forge-26.3-1.5.31.jar?v=087ab6a5278f",
-        "26.3-forge_sha256": "087ab6a5278f23355fdbb203da9682518e788367ed3aa0636888a4fed6faae39",
-        "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.5.31/Crux-ServerMod-NeoForge-26.3-1.5.31.jar?v=a7cc32f34bbd",
-        "26.3-neoforge_sha256": "a7cc32f34bbd8fc1daf1734e63c523ef7af20278a06a76f49157cf2da9ab0d9a"
+        "version": "1.5.32",
+        "bukkit_url": "https://cruxlauncher.com/downloads/server/1.5.32/Crux-Plugin-Bukkit-1.5.32.jar?v=202d2f4679f9",
+        "bukkit_sha256": "202d2f4679f9a34ced99c0312e3852929d7f3e8e48d8f089e29dda3a42c441c9",
+        "bungeecord_url": "https://cruxlauncher.com/downloads/server/1.5.32/Crux-Plugin-BungeeCord-1.5.32.jar?v=2a0ed3641bf3",
+        "bungeecord_sha256": "2a0ed3641bf327c210f0f7b7e58ac07535d253822a756301d5480b9da6888166",
+        "velocity_url": "https://cruxlauncher.com/downloads/server/1.5.32/Crux-Plugin-Velocity-1.5.32.jar?v=9b5660b9fbda",
+        "velocity_sha256": "9b5660b9fbda0252c41a2af118e2b5d3d9cc127d46203445b812e9665d5e84d0",
+        "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.5.32/Crux-ServerMod-Fabric-26.3-1.5.32.jar?v=37256afb48a8",
+        "26.3-fabric_sha256": "37256afb48a8ab27c5e17eaf2e14ebad41c90b4686ddc0d88879f9701c3708d2",
+        "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.5.32/Crux-ServerMod-Forge-26.3-1.5.32.jar?v=bb48a847be23",
+        "26.3-forge_sha256": "bb48a847be2372e8a22f38f2b2fbcdfe9d9a52e2a35a5dd0fdb06ce64e0d82a2",
+        "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.5.32/Crux-ServerMod-NeoForge-26.3-1.5.32.jar?v=f3f62790d963",
+        "26.3-neoforge_sha256": "f3f62790d963d1c57a14d4d75917c61fe910723de6e0aa0c56bc61a29cd76b1e"
     },
     "agent": {
-        "version": "beta-0.3.69",
-        "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.69/crux-fabric-0.3.69.jar",
-        "26.3-fabric_sha256": "f78f3441155bcf2bdfb2f9094d006625751ed9cd2e56e51ad37ee346fff18b3a",
-        "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.69/crux-agent-0.3.69.jar",
-        "26.3-vanilla_sha256": "07488b057ad649fcaf3711a2b7e17b2d3eb85dbfd59970c4a527550f431f2024"
+        "version": "beta-0.3.70",
+        "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.70/crux-fabric-0.3.70.jar",
+        "26.3-fabric_sha256": "bc4ba2a5963520a201680bc06158ead0440efde5c4b32537163723b0a0933f95",
+        "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.70/crux-agent-0.3.70.jar",
+        "26.3-vanilla_sha256": "594ba0389b888454c65fe333c4c8c5f2e65a1fbe86adac656b5be66bcabc02dc"
     },
     "supported_latest_mc": "26.3",
     "locked_servers": {
