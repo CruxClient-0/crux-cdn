@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 149,
+    "serial": 150,
     "launcher": { "latest": "0.1.0", "min": "0.1.0", "url": "https://cruxlauncher.com/download/" },
     "api_url": "https://api.cruxlauncher.com",
     "links": {
@@ -86,17 +86,17 @@
     ],
     "server_plugins": {
         "version": "1.5.24",
-        "bukkit_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-Plugin-Bukkit-1.5.24.jar",
+        "bukkit_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-Plugin-Bukkit-1.5.24.jar?v=7181a5b67f04",
         "bukkit_sha256": "7181a5b67f04dbdec16b2555ccb7a8e1a573351e7ed3d3b79fec20e15117c979",
-        "bungeecord_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-Plugin-BungeeCord-1.5.24.jar",
+        "bungeecord_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-Plugin-BungeeCord-1.5.24.jar?v=a80fc663ab9d",
         "bungeecord_sha256": "a80fc663ab9d545c8cbe74990f6e0f87df3836d4287b1704b0eb960b227da99c",
-        "velocity_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-Plugin-Velocity-1.5.24.jar",
+        "velocity_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-Plugin-Velocity-1.5.24.jar?v=21ae739124b6",
         "velocity_sha256": "21ae739124b6932f6bbfef22cc76aaf768a06de43fd9f5a9656e2b933e2d84d2",
-        "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-ServerMod-Fabric-26.3-1.5.24.jar",
+        "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-ServerMod-Fabric-26.3-1.5.24.jar?v=fa56eac02149",
         "26.3-fabric_sha256": "fa56eac02149ce698bc38eaa4235975ec3fb8b0dc19da048aa76e1a52fc46112",
-        "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-ServerMod-Forge-26.3-1.5.24.jar",
+        "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-ServerMod-Forge-26.3-1.5.24.jar?v=d61a951e69c0",
         "26.3-forge_sha256": "d61a951e69c0eda8915996f3d3892cfe83194b08eba4d7ca6508b576fa68bf06",
-        "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-ServerMod-NeoForge-26.3-1.5.24.jar",
+        "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.5.24/Crux-ServerMod-NeoForge-26.3-1.5.24.jar?v=69ef789e3a95",
         "26.3-neoforge_sha256": "69ef789e3a95950b26f0ac0142d2bfe0afd1ee5b63103b9d10526ff62cf5a7b1"
     },
     "agent": {
