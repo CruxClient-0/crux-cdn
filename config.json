@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 145,
+    "serial": 146,
     "launcher": { "latest": "0.1.0", "min": "0.1.0", "url": "https://cruxlauncher.com/download/" },
     "api_url": "https://api.cruxlauncher.com",
     "links": {
@@ -93,18 +93,18 @@
         "velocity_url": "https://cruxlauncher.com/downloads/server/1.5.23/Crux-Plugin-Velocity-1.5.23.jar",
         "velocity_sha256": "d5f7f7435395b5bb0e037b6cae1cc3fe9fbfb81daad99c2dfce321660bb2a39d",
         "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.5.23/Crux-ServerMod-Fabric-26.3-1.5.23.jar",
-        "26.3-fabric_sha256": "37ffa0183570ea7459e407643a405d69e1eb5d3fc726e67152d73dd66ddf0567",
+        "26.3-fabric_sha256": "3ae9aa2173a4f62ca7ac4c65834ca7e2158c6de6d675e74f70111f501ac9bd88",
         "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.5.23/Crux-ServerMod-Forge-26.3-1.5.23.jar",
         "26.3-forge_sha256": "abe01048bbc8f7ed28d7878cef9c3cd59048ba2bc8dfe07e653343800c4298e3",
         "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.5.23/Crux-ServerMod-NeoForge-26.3-1.5.23.jar",
         "26.3-neoforge_sha256": "320fd0e9ec322da9863c4a268153f1dcfa5f687ddc4bd123c9f17f19f5d4cc31"
     },
     "agent": {
-        "version": "beta-0.3.57",
-        "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.57/crux-fabric-0.3.57.jar",
-        "26.3-fabric_sha256": "e9747e5ae5728f959edda375ce4a796368f0568123b57ea2796901c5e4ae4534",
-        "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.57/crux-agent-0.3.57.jar",
-        "26.3-vanilla_sha256": "85b477254e967fa2c5837db1f605690fa96b0504fd77242727e3ce3dd6cf3d3e"
+        "version": "beta-0.3.58",
+        "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.58/crux-fabric-0.3.58.jar",
+        "26.3-fabric_sha256": "3ae9aa2173a4f62ca7ac4c65834ca7e2158c6de6d675e74f70111f501ac9bd88",
+        "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.58/crux-agent-0.3.58.jar",
+        "26.3-vanilla_sha256": "a6965d903a986fefd48404f799a91ade8b2a5631d3fe57578660fc53cb01c6c5"
     },
     "supported_latest_mc": "26.3",
     "locked_servers": {
