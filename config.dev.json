@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 169,
+    "serial": 170,
     "launcher": { "latest": "0.1.0", "min": "0.1.0", "url": "https://cruxlauncher.com/download/" },
     "api_url": "https://crux-api-dev.crux-cdcp.workers.dev",
     "links": {
@@ -141,6 +141,11 @@
         "26.3": {
             "forge": "66.0.9",
             "neoforge": "26.3.0.40-beta",
+            "fabric": "0.19.5"
+        },
+        "26.2": {
+            "forge": "65.1.5",
+            "neoforge": "26.2.0.93",
             "fabric": "0.19.5"
         },
         "1.21.11": {
