@@ -1,0 +1,212 @@
+﻿{
+    "serial": 169,
+    "launcher": { "latest": "0.1.0", "min": "0.1.0", "url": "https://cruxlauncher.com/download/" },
+    "api_url": "https://api-beta.cruxlauncher.com",
+    "links": {
+        "website": "https://cruxlauncher.com",
+        "discord": "https://discord.gg/V42XrkANm"
+    },
+    "discord_app_id": "",
+    "performance_mods": {
+        "26.3": [
+            "sodium",
+            "lithium",
+            "ferrite-core",
+            "immediatelyfast",
+            "krypton",
+            "badoptimizations"
+        ]
+    },
+    "recommended_mods": [
+        {
+            "comment": "Iris Shaders",
+            "platform": "modrinth",
+            "id": "YL57xq9U"
+        },
+        {
+            "comment": "Sodium",
+            "platform": "modrinth",
+            "id": "AANobbMI"
+        },
+        {
+            "comment": "Lithium",
+            "platform": "modrinth",
+            "id": "gvQqBUqZ"
+        },
+        {
+            "comment": "Mod Menu",
+            "platform": "modrinth",
+            "id": "mOgUt4GM"
+        },
+        {
+            "comment": "Essential Mod",
+            "platform": "modrinth",
+            "id": "k2ZPuTBm"
+        },
+        {
+            "comment": "Axiom",
+            "platform": "modrinth",
+            "id": "N6n5dqoA"
+        },
+        {
+            "comment": "WorldEdit",
+            "platform": "modrinth",
+            "id": "1u6JkXh5"
+        },
+        {
+            "comment": "Iris Shaders",
+            "platform": "curseforge",
+            "id": "455508"
+        },
+        {
+            "comment": "Sodium",
+            "platform": "curseforge",
+            "id": "394468"
+        },
+        {
+            "comment": "Lithium",
+            "platform": "curseforge",
+            "id": "360438"
+        },
+        {
+            "comment": "Mod Menu",
+            "platform": "curseforge",
+            "id": "308702"
+        },
+        {
+            "comment": "Axiom",
+            "platform": "curseforge",
+            "id": "911202"
+        },
+        {
+            "comment": "WorldEdit",
+            "platform": "curseforge",
+            "id": "225608"
+        }
+    ],
+    "server_plugins": {
+        "version": "1.5.32",
+        "bukkit_url": "https://cruxlauncher.com/downloads/server/1.5.32/Crux-Plugin-Bukkit-1.5.32.jar?v=202d2f4679f9",
+        "bukkit_sha256": "202d2f4679f9a34ced99c0312e3852929d7f3e8e48d8f089e29dda3a42c441c9",
+        "bungeecord_url": "https://cruxlauncher.com/downloads/server/1.5.32/Crux-Plugin-BungeeCord-1.5.32.jar?v=2a0ed3641bf3",
+        "bungeecord_sha256": "2a0ed3641bf327c210f0f7b7e58ac07535d253822a756301d5480b9da6888166",
+        "velocity_url": "https://cruxlauncher.com/downloads/server/1.5.32/Crux-Plugin-Velocity-1.5.32.jar?v=9b5660b9fbda",
+        "velocity_sha256": "9b5660b9fbda0252c41a2af118e2b5d3d9cc127d46203445b812e9665d5e84d0",
+        "26.3-fabric_url": "https://cruxlauncher.com/downloads/server/1.5.32/Crux-ServerMod-Fabric-26.3-1.5.32.jar?v=37256afb48a8",
+        "26.3-fabric_sha256": "37256afb48a8ab27c5e17eaf2e14ebad41c90b4686ddc0d88879f9701c3708d2",
+        "26.3-forge_url": "https://cruxlauncher.com/downloads/server/1.5.32/Crux-ServerMod-Forge-26.3-1.5.32.jar?v=bb48a847be23",
+        "26.3-forge_sha256": "bb48a847be2372e8a22f38f2b2fbcdfe9d9a52e2a35a5dd0fdb06ce64e0d82a2",
+        "26.3-neoforge_url": "https://cruxlauncher.com/downloads/server/1.5.32/Crux-ServerMod-NeoForge-26.3-1.5.32.jar?v=f3f62790d963",
+        "26.3-neoforge_sha256": "f3f62790d963d1c57a14d4d75917c61fe910723de6e0aa0c56bc61a29cd76b1e"
+    },
+    "agent": {
+        "version": "beta-0.3.70",
+        "26.3-fabric_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v0.3.70/crux-fabric-0.3.70.jar",
+        "26.3-fabric_sha256": "bc4ba2a5963520a201680bc06158ead0440efde5c4b32537163723b0a0933f95",
+        "26.3-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/agent-v0.3.70/crux-agent-0.3.70.jar",
+        "26.3-vanilla_sha256": "594ba0389b888454c65fe333c4c8c5f2e65a1fbe86adac656b5be66bcabc02dc"
+    },
+    "supported_latest_mc": "26.3",
+    "locked_servers": {
+        "26.3": {
+            "paper": "159",
+            "fabric": "0.19.5",
+            "neoforge": "26.3.0.40-beta",
+            "forge": "66.0.9",
+            "vanilla": "26.3",
+            "spigot": "buildtools",
+            "purpur": "2645",
+            "quilt": "0.30.1",
+            "velocity": "3.5.0-SNAPSHOT/609",
+            "bungeecord": "2102",
+            "folia": "none",
+            "leaves": "none",
+            "arclight": "none",
+            "mohist": "none"
+        },
+        "26.2": {
+            "folia": "7"
+        },
+        "1.21.11": {
+            "leaves": "157"
+        },
+        "1.21.1": {
+            "arclight": "FeudalKings/1.0.1|arclight-neoforge-1.21.1-1.0.1-8ec9529.jar"
+        },
+        "1.20.1": {
+            "mohist": "921"
+        }
+    },
+    "locked_loaders": {
+        "26.3": {
+            "forge": "66.0.9",
+            "neoforge": "26.3.0.40-beta",
+            "fabric": "0.19.5"
+        },
+        "1.21.11": {
+            "forge": "61.2.0",
+            "neoforge": "21.11.45",
+            "fabric": "0.19.5"
+        },
+        "1.21.4": {
+            "forge": "54.1.14",
+            "neoforge": "21.4.158",
+            "fabric": "0.19.5"
+        },
+        "1.21.1": {
+            "forge": "52.1.0",
+            "neoforge": "21.1.252",
+            "fabric": "0.19.5"
+        },
+        "1.21": {
+            "forge": "51.0.33",
+            "neoforge": "21.0.167",
+            "fabric": "0.19.5"
+        },
+        "1.20.4": {
+            "forge": "49.2.0",
+            "neoforge": "20.4.251",
+            "fabric": "0.19.5"
+        },
+        "1.20.2": {
+            "forge": "48.1.0",
+            "neoforge": "20.2.93",
+            "fabric": "0.19.5"
+        },
+        "1.20.1": {
+            "forge": "47.4.10",
+            "neoforge": "none",
+            "fabric": "0.19.5"
+        },
+        "1.19.2": {
+            "forge": "43.5.0",
+            "neoforge": "none",
+            "fabric": "0.19.5"
+        },
+        "1.18.2": {
+            "forge": "40.3.0",
+            "neoforge": "none",
+            "fabric": "0.19.5"
+        },
+        "1.16.5": {
+            "forge": "36.2.34",
+            "neoforge": "none",
+            "fabric": "0.19.5"
+        },
+        "1.12.2": {
+            "forge": "14.23.5.2859",
+            "neoforge": "none",
+            "fabric": "none"
+        },
+        "1.8.9": {
+            "forge": "11.15.1.2318",
+            "neoforge": "none",
+            "fabric": "none"
+        },
+        "1.7.10": {
+            "forge": "10.13.4.1614",
+            "neoforge": "none",
+            "fabric": "none"
+        }
+    }
+}
