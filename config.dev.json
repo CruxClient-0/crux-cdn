@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 178,
+    "serial": 179,
     "launcher": { "latest": "0.1.0", "min": "0.1.0", "url": "https://cruxlauncher.com/download/" },
     "api_url": "https://crux-api-dev.crux-cdcp.workers.dev",
     "links": {
@@ -275,13 +275,13 @@
         "1.16.5-forge_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v1.0.0/crux-forge-1.16.5-1.0.0.jar",
         "1.16.5-forge_sha256": "be86c223934ddf93bf147170c39e404b8e72ffc971299603c885eee9642cce9c",
         "1.12.2-forge_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v1.0.0/crux-forge-1.12.2-1.0.0.jar",
-        "1.12.2-forge_sha256": "894cd5b008030c3bc3a1e5b96c43331d7b06bc51b68608f7be49e3713c0e7338",
+        "1.12.2-forge_sha256": "c159e255aba55c4cf4b9f13c6e8ccb7a1bf1cbfcf296151fa8f02c7cd9b9afd0",
         "1.12.2-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v1.0.0/crux-vanilla-1.12.2-1.0.0.jar",
-        "1.12.2-vanilla_sha256": "b838629f54d6c88631ef581c8d1d694a22a79d76eb167fd615979ae3887d1a9d",
+        "1.12.2-vanilla_sha256": "2853e8359b5f543b2451b009ffc9e3c9dbd107c7dc27b9fa9cbcd5edbfb8caf5",
         "1.8.9-forge_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v1.0.0/crux-forge-1.8.9-1.0.0.jar",
-        "1.8.9-forge_sha256": "20316ed0fc7dc147ee9b98cef906a6ee768a331cda18ddb81bdca6afa311091a",
+        "1.8.9-forge_sha256": "d7406e7adba914a08ed7c77e1adcafde1f9265870f8c0cef50ae1f84ef5ceec1",
         "1.8.9-vanilla_url": "https://github.com/CruxClient-0/crux-cdn/releases/download/f-agent-v1.0.0/crux-vanilla-1.8.9-1.0.0.jar",
-        "1.8.9-vanilla_sha256": "9d8a661f9ced7d858fe1d6bc80e17cc7ac0ee6acbfc5dff1542185a45c207cad"
+        "1.8.9-vanilla_sha256": "b179e98b1de9494f42db66ccb45f3d5bc2ea30b76956a5dfc5211da721240461"
     },
     "supported_latest_mc": "26.3",
     "locked_servers": {
