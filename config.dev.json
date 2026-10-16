@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 183,
+    "serial": 184,
     "launcher": { "latest": "0.1.0", "min": "0.1.0", "url": "https://cruxlauncher.com/download/" },
     "api_url": "https://crux-api-dev.crux-cdcp.workers.dev",
     "links": {
@@ -303,7 +303,7 @@
             "quilt": "0.30.1",
             "velocity": "3.5.0-SNAPSHOT/609",
             "bungeecord": "2102",
-            "folia": "none",
+            "folia": "3",
             "leaves": "none",
             "arclight": "none",
             "mohist": "none"

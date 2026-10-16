@@ -1,5 +1,5 @@
 ﻿{
-    "serial": 181,
+    "serial": 182,
     "launcher": { "latest": "0.1.0", "min": "0.1.0", "url": "https://cruxlauncher.com/download/" },
     "api_url": "https://api-beta.cruxlauncher.com",
     "links": {
@@ -300,13 +300,22 @@
             "quilt": "0.30.1",
             "velocity": "3.5.0-SNAPSHOT/609",
             "bungeecord": "2102",
-            "folia": "none",
+            "folia": "3",
             "leaves": "none",
             "arclight": "none",
             "mohist": "none"
         },
         "26.2": {
-            "folia": "7"
+            "folia": "7",
+            "paper": "134",
+            "purpur": "2633",
+            "leaves": "none",
+            "fabric": "0.19.5",
+            "quilt": "0.30.1",
+            "forge": "65.1.5",
+            "neoforge": "26.2.0.93",
+            "vanilla": "26.2",
+            "spigot": "buildtools"
         },
         "1.21.11": {
             "leaves": "157",
@@ -471,6 +480,11 @@
         "26.3": {
             "forge": "66.0.9",
             "neoforge": "26.3.0.40-beta",
+            "fabric": "0.19.5"
+        },
+        "26.2": {
+            "forge": "65.1.5",
+            "neoforge": "26.2.0.93",
             "fabric": "0.19.5"
         },
         "1.21.11": {
