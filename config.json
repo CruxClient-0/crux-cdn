@@ -1,7 +1,7 @@
 ﻿{
-    "serial": 262,
+    "serial": 263,
     "launcher": { "latest": "0.1.0", "min": "0.1.0", "url": "https://cruxlauncher.com/download/" },
-    "editor": { "version": "0.2.47", "url": "https://github.com/CruxClient-0/crux-cdn/releases/download/editor-v0.2.47/Crux-Editor-0.2.47-prod.zip", "sha256": "ef0b235588f4058efe972b0552ce7ed22b64554816b29a98073a290efa11cbad" },
+    "editor": { "version": "0.2.48", "url": "https://github.com/CruxClient-0/crux-cdn/releases/download/editor-v0.2.48/Crux-Editor-0.2.48-prod.zip", "sha256": "8673009539fe7a29b350f5eba245256bbe9ec80bd94d6f73dbdbb49b7ba2b6f3" },
     "api_url": "https://api.cruxlauncher.com",
     "links": {
         "website": "https://cruxlauncher.com",
